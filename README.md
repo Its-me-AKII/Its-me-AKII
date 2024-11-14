@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akila Thikshana</h1>
 <h3 align="center">I'm a passionate student of Applied Science, specializing in Industrial Mathematics at Rajarata University of Sri Lanka. I have a keen interest in Computer Science, Statistics, and Artificial Intelligence, with plans to pursue a Master's in AI.</h3>
-<br><br><br>
+<br><br>
+---
+<br><br>
 
 - 🔭 I’m currently working on **Pay Slip project**
 
@@ -11,7 +13,7 @@
 - 📫 How to reach me **akilatheakshana.2003@gmail.com**
 
 - ⚡ Fun fact **akii**
-- <br><br>
+ <br><br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
