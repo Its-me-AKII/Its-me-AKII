@@ -27,8 +27,8 @@ Hi, I'm Akila Thikshana!
 💻 I am aspiring to become a Cloud Computing Engineer.
 📚 I am pursuing a Bachelor's in Industrial Mathematics,
        Computer Science and Statistics at RUSL.
-📝 I have a strong interest in Data Science, Artificial Intelligence,
-       and Applied Mathematics.     
+📝 I have a strong interest in Artificial Intelligence,
+       Data Science and Applied Mathematics.     
 🌟 languages I learned yet: Python, C, HTML, CSS, JavaScript  
 <hr>
  </td>
